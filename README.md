@@ -20,4 +20,4 @@ img {
 }
 ```
 sample output:
-
+<img src="a.png">
