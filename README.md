@@ -9,3 +9,13 @@ img {
 }
 ```
 and adjust the width / height value.
+
+For making a circle image from square image:
+```
+img {
+   width:;
+   height:120px;
+   border-radius:50%;
+   object-fit:cover;
+}
+```
