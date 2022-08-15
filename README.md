@@ -19,3 +19,5 @@ img {
    object-fit:cover;
 }
 ```
+sample output:
+<img src="Screen Shot 2022-08-15 at 22.27.12.png">
